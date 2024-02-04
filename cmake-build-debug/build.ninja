@@ -55,35 +55,41 @@ build CMakeFiles/Stock_Simulator.dir/main/c++/main.cpp.obj: CXX_COMPILER__Stock_
   OBJECT_DIR = CMakeFiles\Stock_Simulator.dir
   OBJECT_FILE_DIR = CMakeFiles\Stock_Simulator.dir\main\c++
 
-build CMakeFiles/Stock_Simulator.dir/main/c++/Stock.cpp.obj: CXX_COMPILER__Stock_Simulator_unscanned_Debug C$:/Users/yutto/CLionProjects/Stock_Simulator/main/c++/Stock.cpp || cmake_object_order_depends_target_Stock_Simulator
-  DEP_FILE = CMakeFiles\Stock_Simulator.dir\main\c++\Stock.cpp.obj.d
+build CMakeFiles/Stock_Simulator.dir/main/c++/stocks/Stock.cpp.obj: CXX_COMPILER__Stock_Simulator_unscanned_Debug C$:/Users/yutto/CLionProjects/Stock_Simulator/main/c++/stocks/Stock.cpp || cmake_object_order_depends_target_Stock_Simulator
+  DEP_FILE = CMakeFiles\Stock_Simulator.dir\main\c++\stocks\Stock.cpp.obj.d
   FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Stock_Simulator.dir
-  OBJECT_FILE_DIR = CMakeFiles\Stock_Simulator.dir\main\c++
+  OBJECT_FILE_DIR = CMakeFiles\Stock_Simulator.dir\main\c++\stocks
 
-build CMakeFiles/Stock_Simulator.dir/main/c++/RealEstateStock.cpp.obj: CXX_COMPILER__Stock_Simulator_unscanned_Debug C$:/Users/yutto/CLionProjects/Stock_Simulator/main/c++/RealEstateStock.cpp || cmake_object_order_depends_target_Stock_Simulator
-  DEP_FILE = CMakeFiles\Stock_Simulator.dir\main\c++\RealEstateStock.cpp.obj.d
+build CMakeFiles/Stock_Simulator.dir/main/c++/stocks/RealEstateStock.cpp.obj: CXX_COMPILER__Stock_Simulator_unscanned_Debug C$:/Users/yutto/CLionProjects/Stock_Simulator/main/c++/stocks/RealEstateStock.cpp || cmake_object_order_depends_target_Stock_Simulator
+  DEP_FILE = CMakeFiles\Stock_Simulator.dir\main\c++\stocks\RealEstateStock.cpp.obj.d
   FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Stock_Simulator.dir
-  OBJECT_FILE_DIR = CMakeFiles\Stock_Simulator.dir\main\c++
+  OBJECT_FILE_DIR = CMakeFiles\Stock_Simulator.dir\main\c++\stocks
 
-build CMakeFiles/Stock_Simulator.dir/main/c++/Portfolio.cpp.obj: CXX_COMPILER__Stock_Simulator_unscanned_Debug C$:/Users/yutto/CLionProjects/Stock_Simulator/main/c++/Portfolio.cpp || cmake_object_order_depends_target_Stock_Simulator
-  DEP_FILE = CMakeFiles\Stock_Simulator.dir\main\c++\Portfolio.cpp.obj.d
+build CMakeFiles/Stock_Simulator.dir/main/c++/portfolio/Portfolio.cpp.obj: CXX_COMPILER__Stock_Simulator_unscanned_Debug C$:/Users/yutto/CLionProjects/Stock_Simulator/main/c++/portfolio/Portfolio.cpp || cmake_object_order_depends_target_Stock_Simulator
+  DEP_FILE = CMakeFiles\Stock_Simulator.dir\main\c++\portfolio\Portfolio.cpp.obj.d
   FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Stock_Simulator.dir
-  OBJECT_FILE_DIR = CMakeFiles\Stock_Simulator.dir\main\c++
+  OBJECT_FILE_DIR = CMakeFiles\Stock_Simulator.dir\main\c++\portfolio
 
-build CMakeFiles/Stock_Simulator.dir/main/c++/BeverageCompanyStock.cpp.obj: CXX_COMPILER__Stock_Simulator_unscanned_Debug C$:/Users/yutto/CLionProjects/Stock_Simulator/main/c++/BeverageCompanyStock.cpp || cmake_object_order_depends_target_Stock_Simulator
-  DEP_FILE = CMakeFiles\Stock_Simulator.dir\main\c++\BeverageCompanyStock.cpp.obj.d
+build CMakeFiles/Stock_Simulator.dir/main/c++/stocks/BeverageCompanyStock.cpp.obj: CXX_COMPILER__Stock_Simulator_unscanned_Debug C$:/Users/yutto/CLionProjects/Stock_Simulator/main/c++/stocks/BeverageCompanyStock.cpp || cmake_object_order_depends_target_Stock_Simulator
+  DEP_FILE = CMakeFiles\Stock_Simulator.dir\main\c++\stocks\BeverageCompanyStock.cpp.obj.d
   FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Stock_Simulator.dir
-  OBJECT_FILE_DIR = CMakeFiles\Stock_Simulator.dir\main\c++
+  OBJECT_FILE_DIR = CMakeFiles\Stock_Simulator.dir\main\c++\stocks
 
-build CMakeFiles/Stock_Simulator.dir/main/c++/AutomotiveCompanyStock.cpp.obj: CXX_COMPILER__Stock_Simulator_unscanned_Debug C$:/Users/yutto/CLionProjects/Stock_Simulator/main/c++/AutomotiveCompanyStock.cpp || cmake_object_order_depends_target_Stock_Simulator
-  DEP_FILE = CMakeFiles\Stock_Simulator.dir\main\c++\AutomotiveCompanyStock.cpp.obj.d
+build CMakeFiles/Stock_Simulator.dir/main/c++/stocks/AutomotiveCompanyStock.cpp.obj: CXX_COMPILER__Stock_Simulator_unscanned_Debug C$:/Users/yutto/CLionProjects/Stock_Simulator/main/c++/stocks/AutomotiveCompanyStock.cpp || cmake_object_order_depends_target_Stock_Simulator
+  DEP_FILE = CMakeFiles\Stock_Simulator.dir\main\c++\stocks\AutomotiveCompanyStock.cpp.obj.d
   FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Stock_Simulator.dir
-  OBJECT_FILE_DIR = CMakeFiles\Stock_Simulator.dir\main\c++
+  OBJECT_FILE_DIR = CMakeFiles\Stock_Simulator.dir\main\c++\stocks
+
+build CMakeFiles/Stock_Simulator.dir/main/c++/stocks/BankStocks.cpp.obj: CXX_COMPILER__Stock_Simulator_unscanned_Debug C$:/Users/yutto/CLionProjects/Stock_Simulator/main/c++/stocks/BankStocks.cpp || cmake_object_order_depends_target_Stock_Simulator
+  DEP_FILE = CMakeFiles\Stock_Simulator.dir\main\c++\stocks\BankStocks.cpp.obj.d
+  FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Stock_Simulator.dir
+  OBJECT_FILE_DIR = CMakeFiles\Stock_Simulator.dir\main\c++\stocks
 
 
 # =============================================================================
@@ -93,7 +99,7 @@ build CMakeFiles/Stock_Simulator.dir/main/c++/AutomotiveCompanyStock.cpp.obj: CX
 #############################################
 # Link the executable Stock_Simulator.exe
 
-build Stock_Simulator.exe: CXX_EXECUTABLE_LINKER__Stock_Simulator_Debug CMakeFiles/Stock_Simulator.dir/main/c++/main.cpp.obj CMakeFiles/Stock_Simulator.dir/main/c++/Stock.cpp.obj CMakeFiles/Stock_Simulator.dir/main/c++/RealEstateStock.cpp.obj CMakeFiles/Stock_Simulator.dir/main/c++/Portfolio.cpp.obj CMakeFiles/Stock_Simulator.dir/main/c++/BeverageCompanyStock.cpp.obj CMakeFiles/Stock_Simulator.dir/main/c++/AutomotiveCompanyStock.cpp.obj
+build Stock_Simulator.exe: CXX_EXECUTABLE_LINKER__Stock_Simulator_Debug CMakeFiles/Stock_Simulator.dir/main/c++/main.cpp.obj CMakeFiles/Stock_Simulator.dir/main/c++/stocks/Stock.cpp.obj CMakeFiles/Stock_Simulator.dir/main/c++/stocks/RealEstateStock.cpp.obj CMakeFiles/Stock_Simulator.dir/main/c++/portfolio/Portfolio.cpp.obj CMakeFiles/Stock_Simulator.dir/main/c++/stocks/BeverageCompanyStock.cpp.obj CMakeFiles/Stock_Simulator.dir/main/c++/stocks/AutomotiveCompanyStock.cpp.obj CMakeFiles/Stock_Simulator.dir/main/c++/stocks/BankStocks.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Stock_Simulator.dir

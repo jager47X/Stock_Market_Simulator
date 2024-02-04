@@ -34,13 +34,16 @@ Represents a generic stock with common attributes.
 Derived from the Stock class.
 Represents a stock of a beverage company.
 
+
 ### 2.3 AutomotiveCompanyStock 
 Derived from the Stock class.
 Represents a stock of an automotive company.
 
+
 ### 2.4 RealEstateStock 
 Derived from the Stock class.
 Represents a stock of a real estate company.
+
 
 ### 2.5 Portfolio 
 Manages the player's portfolio.
