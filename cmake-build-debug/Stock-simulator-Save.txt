@@ -1,0 +1,23 @@
+89000
+1
+Beverage
+Soda Company
+1000
+15000
+0.05
+11
+0
+Automotive
+Toyota
+12200
+5000
+0.1
+0
+0
+RealEstate
+LA real-estate
+150
+100000
+0.001
+0
+0

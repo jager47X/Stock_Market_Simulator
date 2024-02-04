@@ -2,8 +2,8 @@
 #include "BeverageCompanyStock.h"
 #include "Portfolio.h"
 
-Portfolio::Portfolio(double cas) {
-    cash = cas;
+Portfolio::Portfolio(double cash) {
+    this->cash = cash;
 }
 
 double Portfolio::buyStock(double input, double value, double ownval) {
